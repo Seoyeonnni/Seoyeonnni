@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Welcome, I'm Seoyeon Jin 👋
 
 <!--
 **Seoyeonnni/Seoyeonnni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
